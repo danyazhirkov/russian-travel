@@ -1,0 +1,10 @@
+.header__lang-item_active {
+    text-decoration: underline;
+    width: 30px;
+}
+
+@media screen and (max-width: 767px) {
+    .header__lang-item_active {
+        width: 22px;
+    }
+}
