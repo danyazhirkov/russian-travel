@@ -10,4 +10,4 @@
 
 #### Ссылка на проект.
 
--   https://github.com/danyazhirkov/russian-travel
+-   https://danyazhirkov.github.io/russian-travel/
