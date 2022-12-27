@@ -1,6 +1,5 @@
 .header__lang-item {
-    width: 29px;
-    height: 28px;
+    max-width: 29px;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -15,8 +14,7 @@
 
 @media screen and (max-width: 767px) {
     .header__lang-item {
-        width: 22px;
-        height: 20px;
+        max-width: 22px;
         font-size: 18px;
     }
 }
