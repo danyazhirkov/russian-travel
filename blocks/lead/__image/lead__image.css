@@ -1,6 +1,5 @@
 .lead__image {
     width: 984px;
-    height: 615px;
     margin: 0 148px 0 148px;
     padding-top: 64px;
     justify-items: center;
@@ -12,20 +11,23 @@
         padding-top: 56px;
         width: 100%;
         margin: 0 48px;
-        height: 580px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .lead__image {
-        height: 480px;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead__image {
         margin: 0;
     }
 }
 
 @media screen and (max-width: 320px) {
     .lead__image {
-        height: 200px;
         padding-top: 40px;
     }
 }
