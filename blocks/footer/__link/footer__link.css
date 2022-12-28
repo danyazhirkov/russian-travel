@@ -25,4 +25,9 @@
         line-height: 24px;
     }
 
+    .footer__link:last-child {
+        padding-bottom: 0;
+
+    }
+
 }
